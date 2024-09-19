@@ -9,3 +9,4 @@ lxml
 folium
 streamlit_folium
 scikit-learn
+statsmodels
