@@ -7,7 +7,8 @@ from ml import ml_app
 from about import about_app
 
 def main():
-    print('Hello first project')
+    st.title('Hello first project')
+    st.write('This is a simple Streamlit app.')
 
 
 
