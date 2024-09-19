@@ -8,3 +8,4 @@ plotly
 lxml
 folium
 streamlit_folium
+sklearn
